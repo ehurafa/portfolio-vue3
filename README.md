@@ -13,14 +13,12 @@ Alguns projetos importantes estão fora da lista. Por estar obsoleto ou por rest
 | :art: Color Template - Renderer to Adaptive Background Image | -- |
 | :hammer: Contact Form                                      | -- |
 | :calling: Responsive Improvements                                | -- |
-| :hammer: Refactory Services                                     | -- |
 | :performing_arts: Animations                                             | -- |
 | :traffic_light: Controll States                                        | -- |
 | :mag: Filter Jobs                                            | -- |
-| :pencil2: Insert All Jobs                                        | S-- |
+| :pencil2: Insert All Jobs                                        | -- |
 | :art: Mansonry Layout                                        | -- |
-| :hourglass: New Loader All Application                             | -- |
+| :hourglass: Generic Loader                             | -- |
 | :hourglass: Lazy Loading                           | -- |
 | :arrow_left: Collapse Sidebar                            | -- |
-| :mailbox_with_mail: ~~API OrderBy~~                                            | -- |
 
